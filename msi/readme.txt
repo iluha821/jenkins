@@ -1,4 +1,4 @@
-TOOO: ask for installation directory and port number?`
+#TOOO: ask for installation directory and port number?`
 
 Runtime requirements:
  - JRE
